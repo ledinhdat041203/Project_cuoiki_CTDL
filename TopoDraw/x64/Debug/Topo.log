@@ -1,0 +1,6 @@
+﻿  Topo.cpp
+C:\Users\kirito\Desktop\Topo\Topo\graphics.h(53,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\kirito\Desktop\Topo\Topo\graphics.h(54,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\kirito\Desktop\Topo\Topo\graphics.h(272,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\kirito\Desktop\Topo\Topo\graphics.h(273,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  Topo.vcxproj -> C:\Users\kirito\Desktop\Topo\x64\Debug\Topo.exe

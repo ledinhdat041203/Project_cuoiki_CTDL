@@ -1,0 +1,6 @@
+﻿  ProjectCuoiKy.cpp
+C:\Users\User\Desktop\Tài Liệu HKI 2022-2023\CTDL&GT\DoAnCuoiKy\ProjectCuoiKy\ProjectCuoiKy\graphics.h(59,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\User\Desktop\Tài Liệu HKI 2022-2023\CTDL&GT\DoAnCuoiKy\ProjectCuoiKy\ProjectCuoiKy\graphics.h(60,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\User\Desktop\Tài Liệu HKI 2022-2023\CTDL&GT\DoAnCuoiKy\ProjectCuoiKy\ProjectCuoiKy\graphics.h(278,13): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\User\Desktop\Tài Liệu HKI 2022-2023\CTDL&GT\DoAnCuoiKy\ProjectCuoiKy\ProjectCuoiKy\graphics.h(279,13): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  ProjectCuoiKy.vcxproj -> C:\Users\User\Desktop\Tài Liệu HKI 2022-2023\CTDL&GT\DoAnCuoiKy\ProjectCuoiKy\Debug\ProjectCuoiKy.exe
